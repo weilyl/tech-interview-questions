@@ -1,0 +1,20 @@
+---
+identifier: coding_detect_cycle_in_linked_list
+name: "Detect Cycle in Linked List"
+category: coding
+subcategory: "linked list"
+difficulty: easy
+description:
+  en: README_en.md
+solution:
+  en: SOLUTION_en.md
+starter_code:
+  c: "starter.c"
+  cpp: "starter.cpp"
+  go: "starter.go"
+  javascript: "starter.js"
+  python: "starter.py"
+  ruby: "starter.rb"
+  java: "starter.java"
+industries:
+
